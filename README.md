@@ -1,3 +1,3 @@
 # Whoami-AdminFinder
-<b>Whoami Admin Finder Tool - Version 1 - Created By RaMii Karimi ("WhiteRose")</b>
+<b>Whoami Admin Finder Tool - Version 2 - Created By RaMii Karimi ("WhiteRose")</b>
 
